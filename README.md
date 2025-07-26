@@ -58,7 +58,7 @@ Regras de Lógica Contábil Implementadas (MVP)
 # 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/agentecsv.git
+git clone https://github.com/Ehllonna/Grupo_284_desafio_4/agentecsv.git
 cd agentecsv
 ```
 
